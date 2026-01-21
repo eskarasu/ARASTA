@@ -1,3 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment Variables (CRITICAL)
+.env
+
+# Database & Logs
+*.db
+*.log
+bot_logs_fallback.txt
+sentiment_history.json
+
+# IDE
+.vscode/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

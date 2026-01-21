@@ -1,0 +1,6 @@
+python-binance
+pandas
+numpy
+python-dotenv
+TA-Lib
+requests
